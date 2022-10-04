@@ -13,3 +13,9 @@ git rm -r --cached .
 git add .
 git commit -am "Remove ignored files"
 git push -u origin master
+
+Below commands used to check in push changes to the gir repo 
+git rm -r --cached .
+git add .
+git commit -am "Refactored"
+git push -u origin master
